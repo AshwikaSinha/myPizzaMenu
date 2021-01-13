@@ -3,7 +3,12 @@ var menu_list_array=
  "Paneer Tikka Pizza", 
  "Pepperoni Pizza",
  "Pasta Pizza",
- "Veg Deluxe Pizza"];
+ "Veg Deluxe Pizza",
+ "Cheese Burst Pizza",
+ "Chicken Kebab Tikka Pizza",
+ "Butter Panner Pizza",
+ "Manchurian Pizza",
+ "Super Veggie Pizza"];
 
 function getmenu(){
     var htmldata;
